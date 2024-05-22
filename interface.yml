@@ -73,7 +73,7 @@ edits:
     color: blue
     icon: fa-magnifying-glass
 crowdsource: prolific
-prolific_completion_code: XXXXXXXX
+prolific_completion_code: CPXHULRJ
 database:
   type: firebase
   project_id: annotations-8cec4
