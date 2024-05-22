@@ -74,6 +74,7 @@ edits:
     icon: fa-magnifying-glass
 crowdsource: prolific
 prolific_completion_code: CPXHULRJ
+completion_code: CPXHULRJ
 database:
   type: firebase
   project_id: annotations-8cec4
